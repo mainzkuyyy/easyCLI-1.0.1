@@ -70,7 +70,7 @@ __In Pydroid:__
 ```
 
 ## Note 📝
-Version 1.0.1 is released, `pkg` command works pretty well
+Version 1.0.1 is released, `pkg` command works pretty well.
 Package manager now holds:
 ```
 python
