@@ -4,7 +4,7 @@
 ----
 CLI python based made by Mainzzz 📜
 ----
-#### Created by: Mainzzz ([my portfolio](mainzkuyyy.vercel.app))
+#### Created by: Mainzzz ([my portfolio](https://mainzkuyyy.vercel.app))
 #### Version: 1.0.0
 #### Description: Aarch64 Linux Simulator for Mobile
 
